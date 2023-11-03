@@ -33,7 +33,7 @@ def calculate_hemisphere_ratio(key, file_dict):
     concatenated_df = pd.concat([pivoted_1, pivoted_2])
     concatenated_df.to_csv('G:/My Drive/Projetos Python/EANM_Analysis/Results/' + key + '.csv', index=True)
 
-path = 'G:/My Drive/TCR/EANM/*.csv'
+path = 'C:/Users/ledsouza/Downloads/Dados/*.csv'
 csv_files = glob.glob(path)
 file_dict = {}
 key_list = []
