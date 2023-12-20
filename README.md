@@ -5,7 +5,7 @@ Cálculo da razão entre o hemisfério direito e esquerdo das estruturas do cér
 | :books: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Análise dos hemisférios direito e esquerdo do simulador Hoffman 3D**
-| :label: Tecnologias | python (pandas, glob, os)
+| :label: Tecnologias | python, pandas, glob, os
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://vitrinedev.s3.amazonaws.com/Hoffman_analysis.png#vitrinedev)
